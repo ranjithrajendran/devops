@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/ranjithrajendran/devops.git/issues"
   },
-  "homepage": "ttps://github.com/ranjithrajendran/devops.git#readme",
+  "homepage": "https://github.com/ranjithrajendran/devops.git#readme",
   "dependencies": {
     "express": "^4.16.3"
   }
